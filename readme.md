@@ -14,12 +14,19 @@
 <h2>Built With </h2>
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  <a href="https://www.w3schools.com/html/">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" />
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://w7.pngwing.com/pngs/742/150/png-transparent-figma-square-radio-set-signal-squares-bloomies-webdesign-tools-icon-thumbnail.png" />
   </a>
 </p>
-
-<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma&theme=light" />
   </a>
