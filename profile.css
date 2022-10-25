@@ -584,3 +584,37 @@
   }
   /* smartphones, Android phones, landscape iPhone */
 }
+
+@media (max-width: 480px){
+  .nav-bar {
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+
+  .nav-bar-middle {
+    order: 3;
+  }
+
+  .term-text {
+    font-size: 16px;
+  }
+
+  .footer {
+    flex-direction: column;
+    padding-top: 30px;
+    row-gap: 20px;
+    height: 100%;
+  }
+
+  .footer-text-1 {
+    width: auto;
+  }
+
+  .footer-text-3 {
+    margin-top: 10px;
+  }
+
+  .footer-aside {
+    justify-content: space-around;
+  }
+}

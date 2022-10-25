@@ -499,14 +499,14 @@
   font-weight: 500;
   font-size: 35px;
   color: #0b132a;
-  padding-right: 150px;
+  text-align: center;
 }
 
 .section-7-header-text {
   font-weight: 400;
   font-size: 16px;
   color: #4f5665;
-  padding-right: 150px;
+  text-align: center;
 }
 
 .section-7-sub {
@@ -770,5 +770,155 @@
 
   .footer-aside {
     column-gap: 50px;
+  }
+}
+
+@media (max-width: 480px) {
+  .nav-bar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .nav-bar-header-2 {
+    order: 3;
+  }
+
+  .section-2-header {
+    font-size: 40px;
+    height: auto;
+    width: auto;
+  }
+
+  .section-2-text {
+    font-size: 16px;
+    width: auto;
+  }
+
+  .section-2-sub {
+    top: 60%;
+    height: 100px;
+  }
+
+  .section-2-sub-header {
+    column-gap: 10px;
+  }
+
+  .section-2-text-1 {
+    font-size: 16px;
+  }
+
+  .section-2-text-2 {
+    font-size: 14px;
+  }
+
+  .section-3 {
+    padding-top: 70px;
+  }
+
+  .section-3-img {
+    width: 90%;
+  }
+
+  .section-3-header {
+    font-size: 24px;
+  }
+
+  .section-4-header {
+    font-size: 24px;
+  }
+
+  .section-4-sub {
+    column-gap: 10px;
+  }
+
+  .section-4-box {
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .section-4-list {
+    column-gap: 10px;
+    margin-top: 5px;
+  }
+
+  .section-4-list-text {
+    font-size: 12px;
+  }
+
+  .section-4-price {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+
+  .section-4-img {
+    top: -9%;
+  }
+
+  .section-4-box-header {
+    margin-top: 60px;
+  }
+
+  .section-5 {
+    margin-top: 30px;
+  }
+
+  .section-5-img {
+    width: 90%;
+  }
+
+  .section-5-header {
+    font-size: 24px;
+  }
+
+  .section-6 {
+    margin-top: 30px;
+  }
+
+  .section-6-img-1 {
+    width: 20%;
+    height: auto;
+  }
+
+  .section-7-header {
+    font-size: 24px;
+    padding-right: 0px;
+    text-align: center;
+  }
+
+  .section-7-sub {
+    top: 6%;
+    padding: 10px;
+  }
+
+  .section-7-sub-header {
+    font-size: 24px;
+  }
+
+  .section-7-sub-text {
+    margin-bottom: 0px;
+  }
+
+  .footer {
+    flex-direction: column;
+    padding-top: 100px;
+    row-gap: 20px;
+    height: 100%;
+  }
+
+  .footer-text-1 {
+    width: auto;
+  }
+
+  .footer-text-3 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+
+  .footer-aside {
+    justify-content: space-around;
   }
 }
