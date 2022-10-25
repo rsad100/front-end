@@ -11,27 +11,6 @@
 
 <p>Coffee Shop is a store that sells some good meals, and especially coffee. We provide high quality beans</p>
 
-## Home
-
-![Home](./assets/home.png)
-
-## Login
-
-![Sign In](./assets/login.png)
-
-## Sign Up
-
-![Sign Up](./assets/signup.png)
-
-
-## Product
-
-![Product](./assets/product.png)
-
-## Profile
-
-![Profile](./assets/profile.png)
-
 <h2 align="center">Built With </h2>
 
 <p align="center">
@@ -64,5 +43,36 @@
 <!--
 ## Prerequisites
 -->
+
+## Installation
+
+1. Clone the repo
+
+   ```sh
+   git clone https://github.com/rsad100/frontend.git
+   ```
+
+2. Open IDE or Click index.html
+3. Coffee Shop is Running
+
+## Home
+
+![Home](./assets/home.png)
+
+## Login
+
+![Sign In](./assets/login.png)
+
+## Sign Up
+
+![Sign Up](./assets/signup.png)
+
+## Product
+
+![Product](./assets/product.png)
+
+## Profile
+
+![Profile](./assets/profile.png)
 
 <p align="center"><sub><b>&copy;Coffee Shop</b></sub> </p>
