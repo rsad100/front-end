@@ -11,15 +11,15 @@
 
 <p>Coffee Shop is a store that sells some good meals, and especially coffee. We provide high quality beans</p>
 
-<h2 align="center">Built With </h2>
+<h2>Built With </h2>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma&theme=light" />
   </a>
@@ -35,11 +35,6 @@
 
 <!-- GETTING STARTED -->
 
-# Getting Started
-
-1. Download this Project or you can type
-   `https://github.com/rsad100/frontend/archive/refs/heads/main.zip`
-
 <!--
 ## Prerequisites
 -->
@@ -52,8 +47,10 @@
    git clone https://github.com/rsad100/frontend.git
    ```
 
-2. Open IDE or Click index.html
-3. Coffee Shop is Running
+2. Open IDE
+3. Install live server
+4. Run live server
+5. Coffee Shop is Running
 
 ## Home
 
