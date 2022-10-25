@@ -14,7 +14,7 @@
 <h2>Built With </h2>
 
 <p>
-  <a href="https://www.w3schools.com/html/">
+  <a style="height: 48px; width:48px"  href="https://www.w3schools.com/html/">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" />
   </a>
   <a href="https://www.w3schools.com/css/">
