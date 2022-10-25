@@ -79,6 +79,7 @@
   padding-bottom: 89px;
   background-color: #ffba33;
   background-image: url("profile-background.png");
+  background-repeat: round;
 }
 
 .header-main {
