@@ -15,10 +15,16 @@
   display: inline-block;
 }
 
+.aside-right-center {
+  width: 100%;
+}
+
 .top-content {
   width: 100%;
   padding: 50px;
+  padding-bottom: 0px;
   column-count: 2;
+  margin-bottom: 104px;
 }
 
 .img-left-top {
@@ -315,8 +321,8 @@ body {
   text-align: left;
 }
 
-@media (max-width: 768px){
-  .side-content{
+@media (max-width: 768px) {
+  .side-content {
     display: none;
   }
 }
